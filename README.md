@@ -1,4 +1,4 @@
-## Create Project
+Create Project
 npx create-react-app react-demo
 ----------------------------------------------------------------------------------------------
 # Getting Started with Create React App
